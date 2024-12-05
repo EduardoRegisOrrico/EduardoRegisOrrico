@@ -35,7 +35,7 @@
   <img align="center" alt="Git" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'>
   <img align="center" alt="Markdown" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg'>
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Solana" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solana/solana-original-wordmark.svg" />
+  <img align="center" alt="Solana" height="50" width="60" src="solana-sol-icon.svg" />
 </div>
 
 #### Frameworks
