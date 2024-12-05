@@ -3,7 +3,7 @@
 </br>
 
 - 🔧 Backend Software Developer.
-- 💡 Currently working with... Web3, Solana, Blockchain, Automation, and Distributed Systems.
+- 💡 Currently working with... Web3, Solana, Blockchain, Automation, Rust and Distributed Systems.
   
 <hr>
 </br>
@@ -35,7 +35,6 @@
   <img align="center" alt="Git" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'>
   <img align="center" alt="Markdown" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg'>
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Solana" height="50" width="60" src="solana-sol-icon.svg" />
 </div>
 
 #### Frameworks
@@ -52,4 +51,5 @@
   <img align="center" alt="PostgreSQL" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
   <img align="center" alt="MySQL" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
   <img align="center" alt="Redis" height="50" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg'>
+  <img align="center" alt="Solana" height="50" width="60" src="solana-sol-icon.svg" />
 </div>
