@@ -3,7 +3,7 @@
 </br>
 
 - 🔧 Backend Software Developer.
-- 💡 Currently working with... Web3, Solana, Blockchain, Automation, Rust and Distributed Systems.
+- 💡 Currently working with... Web3, Readct Native, Typescript, Solana, Blockchain, Automation, and Distributed Systems.
   
 <hr>
 </br>
