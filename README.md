@@ -2,8 +2,8 @@
 
 </br>
 
-- 🔧 Backend Software Developer.
-- 💡 Currently working with... Web3, Readct Native, Typescript, Solana, Blockchain, Automation, and Distributed Systems.
+- 🔧 Full Stack Software Developer.
+- 💡 Currently working with... Web3, React Native, Typescript, Solana, Blockchain, Automation, and Distributed Systems.
   
 <hr>
 </br>
